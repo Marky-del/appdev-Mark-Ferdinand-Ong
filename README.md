@@ -1,2 +1,3 @@
-# appdev-Mark-Ferdinand-Ong
-My first GitHub respiratory for App Dev
+Mark Ferdinand Ong
+BSIT BLK B3
+To create a website and system.
